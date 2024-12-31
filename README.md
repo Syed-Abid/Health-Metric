@@ -31,3 +31,10 @@ Welcome to the **Health Metrics** repository! This project showcases my expertis
 - Created dynamic and interactive dashboards tailored for stakeholders.  
 - Delivered actionable insights through visualizations.  
 
+
+## 📬 Contact
+
+Questions or suggestions? Reach out to me:
+
+- **Syed Abid Hassan**
+- **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
