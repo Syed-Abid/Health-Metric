@@ -21,6 +21,10 @@ Welcome to the **Health Metrics** repository! This project showcases my expertis
 
 ## 📊 Dashboards  
 
+<div align="center">
+  <img src="" alt="Health Metric Dashboard ">
+</div>
+
 
 ## 🚀 Achievements  
 - Explored and utilized the **Key Influencer** visual for data-driven storytelling.  
